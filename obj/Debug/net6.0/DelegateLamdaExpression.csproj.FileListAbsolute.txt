@@ -1,0 +1,14 @@
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\bin\Debug\net6.0\DelegateLamdaExpression.exe
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\bin\Debug\net6.0\DelegateLamdaExpression.deps.json
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\bin\Debug\net6.0\DelegateLamdaExpression.runtimeconfig.json
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\bin\Debug\net6.0\DelegateLamdaExpression.dll
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\bin\Debug\net6.0\DelegateLamdaExpression.pdb
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\DelegateLamdaExpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\DelegateLamdaExpression.AssemblyInfoInputs.cache
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\DelegateLamdaExpression.AssemblyInfo.cs
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\DelegateLamdaExpression.csproj.CoreCompileInputs.cache
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\DelegateLamdaExpression.dll
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\refint\DelegateLamdaExpression.dll
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\DelegateLamdaExpression.pdb
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\DelegateLamdaExpression.genruntimeconfig.cache
+C:\Users\BLACK\Desktop\Delegate, Function, Action, Predicate, Lamda expression\DelegateLamdaExpression\obj\Debug\net6.0\ref\DelegateLamdaExpression.dll
